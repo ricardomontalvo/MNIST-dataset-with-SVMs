@@ -7,8 +7,8 @@
 
 Item from the 4 class:
 
-![](images/4.png)
+<img src="images/4.png" width="300"/>
 
 Item from the 9 class:
 
-![](images/9.png)
+<img src="images/9.png" width="300"/>
